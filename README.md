@@ -5,7 +5,7 @@
 <h3 align="center">Desarrollador backend y full-stack · Java & Spring Boot · Granada, España</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/mikel-cooper-pe%C3%B1agaricano-5b3259445/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mikel-cooper-pe%C3%B1agaricano-5b3259445/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
