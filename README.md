@@ -57,12 +57,6 @@
 
 ---
 
-<p align="center">
-  <i>Estoy buscando prácticas y oportunidades como desarrollador junior. ¡Escríbeme!</i>
-</p>
-
----
-
 ### Proyectos destacados
  
 #### 🍽️ [MenuQR: pedidos desde la mesa con código QR](https://github.com/MikelSkate/menuqr)
@@ -71,5 +65,11 @@ Los clientes escanean el QR de su mesa y piden desde el móvil sin instalar nada
 - Tests unitarios de todos los servicios con JUnit 5 y Mockito, y JavaDoc generado.
 - 🎥 [Vídeo de demostración](https://youtu.be/EUSJQI3XBOo)
 `Java` `Spring Boot` `JPA` `H2` `JUnit` `Mockito` `JavaScript`
+
+---
+
+<p align="center">
+  <i>Estoy buscando prácticas y oportunidades como desarrollador junior. ¡Escríbeme!</i>
+</p>
 
 
